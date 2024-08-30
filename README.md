@@ -7,6 +7,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArZarLordOfMango&show_icons=true)  
 
+![Codewars](https://www.codewars.com/users/ArZarLordOfMango/badges/large)
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ArZarLordOfMango)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArZarLordOfMango)](https://github.com/anuraghazra/github-readme-stats)
